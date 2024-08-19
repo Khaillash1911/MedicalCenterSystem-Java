@@ -1,0 +1,5 @@
+Abdul Rahman, abdul@mail.com, abdul123, General
+Koma Lisus, koma@mail.com, koma123, General,Urology
+Mike Wazowski, mike@mail.com, mike123, General,Vaccination,X-Ray
+Adam Joseph, adam@mail.com, adam123, X-Ray,Vaccination
+Abdul Rauf, rauf@mail.com, rauf123, General
